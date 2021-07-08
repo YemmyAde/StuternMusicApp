@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/StuternMusicApp/static/css/main.239fe8ec.chunk.css",
+    "main.js": "/StuternMusicApp/static/js/main.ed684187.chunk.js",
+    "main.js.map": "/StuternMusicApp/static/js/main.ed684187.chunk.js.map",
+    "runtime-main.js": "/StuternMusicApp/static/js/runtime-main.6c7c192b.js",
+    "runtime-main.js.map": "/StuternMusicApp/static/js/runtime-main.6c7c192b.js.map",
+    "static/js/2.3f247a6e.chunk.js": "/StuternMusicApp/static/js/2.3f247a6e.chunk.js",
+    "static/js/2.3f247a6e.chunk.js.map": "/StuternMusicApp/static/js/2.3f247a6e.chunk.js.map",
+    "index.html": "/StuternMusicApp/index.html",
+    "static/css/main.239fe8ec.chunk.css.map": "/StuternMusicApp/static/css/main.239fe8ec.chunk.css.map",
+    "static/js/2.3f247a6e.chunk.js.LICENSE.txt": "/StuternMusicApp/static/js/2.3f247a6e.chunk.js.LICENSE.txt",
+    "static/media/404.e951730a.png": "/StuternMusicApp/static/media/404.e951730a.png",
+    "static/media/4042.548982e6.png": "/StuternMusicApp/static/media/4042.548982e6.png",
+    "static/media/background2.d64b8499.jpg": "/StuternMusicApp/static/media/background2.d64b8499.jpg",
+    "static/media/loading.feecb279.gif": "/StuternMusicApp/static/media/loading.feecb279.gif",
+    "static/media/music2.c844fad5.png": "/StuternMusicApp/static/media/music2.c844fad5.png",
+    "static/media/topAlbum2.5670cafd.jpg": "/StuternMusicApp/static/media/topAlbum2.5670cafd.jpg",
+    "static/media/topSong.98273dd2.jpg": "/StuternMusicApp/static/media/topSong.98273dd2.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6c7c192b.js",
+    "static/js/2.3f247a6e.chunk.js",
+    "static/css/main.239fe8ec.chunk.css",
+    "static/js/main.ed684187.chunk.js"
+  ]
+}

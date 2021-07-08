@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/StuternMusicApp/static/css/main.239fe8ec.chunk.css",
-    "main.js": "/StuternMusicApp/static/js/main.c0a98c30.chunk.js",
-    "main.js.map": "/StuternMusicApp/static/js/main.c0a98c30.chunk.js.map",
+    "main.js": "/StuternMusicApp/static/js/main.94516cb5.chunk.js",
+    "main.js.map": "/StuternMusicApp/static/js/main.94516cb5.chunk.js.map",
     "runtime-main.js": "/StuternMusicApp/static/js/runtime-main.6c7c192b.js",
     "runtime-main.js.map": "/StuternMusicApp/static/js/runtime-main.6c7c192b.js.map",
     "static/js/2.3f247a6e.chunk.js": "/StuternMusicApp/static/js/2.3f247a6e.chunk.js",
@@ -22,6 +22,6 @@
     "static/js/runtime-main.6c7c192b.js",
     "static/js/2.3f247a6e.chunk.js",
     "static/css/main.239fe8ec.chunk.css",
-    "static/js/main.c0a98c30.chunk.js"
+    "static/js/main.94516cb5.chunk.js"
   ]
 }
